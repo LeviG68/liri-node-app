@@ -1,1 +1,2 @@
-# liri-node-app
+LIRI is like iPhone's SIRI. However, while SIRI is a Speech Interpretation and Recognition Interface, LIRI is a Language Interpretation and Recognition Interface. LIRI will be a command line node app that takes in parameters and gives you back data.
+Liri is connected with Twitter, Spotify, and Open Movie Database. Allowing you to look up tweets from my account (witch is currently linked to our 45th Presidents account). Spotify for looking up songs and OMdb for looking up any movie information that you my be interested in.
